@@ -1,0 +1,56 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "051d3a31a55aa434",
+            "max_int": "803207202ff79cec",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Valentina Pontes",
+            "photo": "https://i.postimg.cc/XYFvjmTn/channels4-profile.jpg",
+            "voice": "https://ringy9.github.io/Valentina-Pontes/audio.mp4",
+            "video": "https://ringy9.github.io/Valentina-Pontes/valentina1.mp4",
+            "stories": [
+               "https://i.postimg.cc/mDdLpsFy/212098064-525917831982527-8233375083975860556-n.jpg",
+"https://i.postimg.cc/SNHspk1Z/5.webp",
+"https://i.postimg.cc/1zQ3fMQw/6.webp",
+"https://i.postimg.cc/pdJX88W7/7.webp",
+"https://i.postimg.cc/9X80JGdH/7a8765309fe6dabf16d73c611b54bd14.jpg",
+"https://i.postimg.cc/yd66TdWN/9fbfb8e4d43696e3eaa2af5f155e23b5.jpg",
+"https://i.postimg.cc/XYFvjmTn/channels4-profile.jpg",
+"https://i.postimg.cc/SNns5Jd2/channels4-profile-1.jpg",
+"https://i.postimg.cc/qqSk0xwt/Ea6-Vd-WYXYAUj-D9o.jpg",
+"https://i.postimg.cc/rsK8vP1X/hq720-2.jpg",
+"https://i.postimg.cc/qM6JwWB2/maxresdefault.jpg",
+"https://i.postimg.cc/VsVsjzwY/maxresdefault-1.jpg",
+"https://i.postimg.cc/yxdd7dzG/Valentina.jpg",
+"https://i.postimg.cc/QCyMC38d/valentina-pontes.jpg"
+            ],
+            "wallpapers": [
+              "https://i.postimg.cc/mDdLpsFy/212098064-525917831982527-8233375083975860556-n.jpg",
+"https://i.postimg.cc/SNHspk1Z/5.webp",
+"https://i.postimg.cc/1zQ3fMQw/6.webp",
+"https://i.postimg.cc/pdJX88W7/7.webp",
+"https://i.postimg.cc/9X80JGdH/7a8765309fe6dabf16d73c611b54bd14.jpg",
+"https://i.postimg.cc/yd66TdWN/9fbfb8e4d43696e3eaa2af5f155e23b5.jpg",
+"https://i.postimg.cc/XYFvjmTn/channels4-profile.jpg",
+"https://i.postimg.cc/SNns5Jd2/channels4-profile-1.jpg",
+"https://i.postimg.cc/qqSk0xwt/Ea6-Vd-WYXYAUj-D9o.jpg",
+"https://i.postimg.cc/rsK8vP1X/hq720-2.jpg",
+"https://i.postimg.cc/qM6JwWB2/maxresdefault.jpg",
+"https://i.postimg.cc/VsVsjzwY/maxresdefault-1.jpg",
+"https://i.postimg.cc/yxdd7dzG/Valentina.jpg",
+"https://i.postimg.cc/QCyMC38d/valentina-pontes.jpg"
+            ]
+          
+        }
+    ]
+}
